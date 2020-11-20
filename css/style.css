@@ -13,6 +13,7 @@
     font-size: 1.5rem;
     animation: aagepiche1 3s linear infinite;
     animation-direction: alternate;
+    padding-left:10px;
     
 }
 @keyframes aagepiche1 {
@@ -25,6 +26,7 @@
     font-size: 1.5rem;
     animation: aagepiche 2.5s linear infinite;
     animation-direction: alternate;
+    padding-left:10px;
     
 }
 @keyframes aagepiche {
